@@ -1,0 +1,9 @@
+C:\Users\Vika\source\repos\ResortComplex\Servises\bin\Debug\Servises.dll
+C:\Users\Vika\source\repos\ResortComplex\Servises\bin\Debug\Servises.pdb
+C:\Users\Vika\source\repos\ResortComplex\Servises\bin\Debug\Models.dll
+C:\Users\Vika\source\repos\ResortComplex\Servises\bin\Debug\Models.pdb
+C:\Users\Vika\source\repos\ResortComplex\Servises\obj\Debug\Servises.csprojAssemblyReference.cache
+C:\Users\Vika\source\repos\ResortComplex\Servises\obj\Debug\Servises.csproj.CoreCompileInputs.cache
+C:\Users\Vika\source\repos\ResortComplex\Servises\obj\Debug\Servises.csproj.CopyComplete
+C:\Users\Vika\source\repos\ResortComplex\Servises\obj\Debug\Servises.dll
+C:\Users\Vika\source\repos\ResortComplex\Servises\obj\Debug\Servises.pdb

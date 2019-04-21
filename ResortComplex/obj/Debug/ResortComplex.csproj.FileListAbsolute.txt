@@ -1,0 +1,2 @@
+C:\Users\Vika\source\repos\ResortComplex\ResortComplex\obj\Debug\ResortComplex.csprojAssemblyReference.cache
+C:\Users\Vika\source\repos\ResortComplex\ResortComplex\obj\Debug\ResortComplex.csproj.CoreCompileInputs.cache
