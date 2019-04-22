@@ -13,6 +13,7 @@ namespace Repository.Abstract
         void Add(Service service);
         void Delete(ServiceFilter filter);
         void Update(Service service, ServiceFilter filter);
+        void ShowAll();
         
         List<Service> Get(ServiceFilter filter);
     }

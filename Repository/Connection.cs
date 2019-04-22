@@ -127,7 +127,7 @@ namespace Repository
         {
             connection.Dispose();
             connection = factory.CreateConnection();
-            connection.ConnectionString = ConfigurationManager.ConnectionStrings["UTILITYCOMPANY"].ConnectionString;
+            connection.ConnectionString = ConfigurationManager.ConnectionStrings["ResortComplex"].ConnectionString;
             connection.Open();
         }
     }

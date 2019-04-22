@@ -4,3 +4,5 @@ C:\Users\Vika\source\repos\ResortComplex\Models\obj\Debug\Models.csprojAssemblyR
 C:\Users\Vika\source\repos\ResortComplex\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
 C:\Users\Vika\source\repos\ResortComplex\Models\obj\Debug\Models.dll
 C:\Users\Vika\source\repos\ResortComplex\Models\obj\Debug\Models.pdb
+C:\Users\Vika\source\repos\ResortComplex\Models\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Vika\source\repos\ResortComplex\Models\obj\Debug\Models.csproj.CopyComplete

@@ -7,3 +7,5 @@ C:\Users\Vika\source\repos\ResortComplex\Servises\obj\Debug\Servises.csproj.Core
 C:\Users\Vika\source\repos\ResortComplex\Servises\obj\Debug\Servises.csproj.CopyComplete
 C:\Users\Vika\source\repos\ResortComplex\Servises\obj\Debug\Servises.dll
 C:\Users\Vika\source\repos\ResortComplex\Servises\obj\Debug\Servises.pdb
+C:\Users\Vika\source\repos\ResortComplex\Servises\bin\Debug\Repository.dll
+C:\Users\Vika\source\repos\ResortComplex\Servises\bin\Debug\Repository.pdb
