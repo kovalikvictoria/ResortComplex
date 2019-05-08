@@ -48,8 +48,7 @@ namespace Repository
         {
             Dispose(false);
         }
-
-
+        
         public ConnectionManager()
         {
             connection = factory.CreateConnection();

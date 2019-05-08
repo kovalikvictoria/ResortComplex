@@ -8,17 +8,12 @@ namespace Models.Filters
 {
     public class ServiceFilter
     {
-        public string Name { get; set; }
-        public string NameStartWith { get; set; }
+        public string name { get; set; }
 
-        public string Description { get; set; }
-
-        public double? Duration { get; set; }
-        public double? DurationLowerThan { get; set; }
-        public double? DurationUpperThan { get; set; }
-
-        public double? Price { get; set; }
-        public double? PriceLowerThan { get; set; }
-        public double? PriceUpperThan { get; set; }
+        public string description { get; set; }
+        
+        public double? price { get; set; }
+        public double? priceLowerThan { get; set; }
+        public double? priceUpperThan { get; set; }
     }
 }

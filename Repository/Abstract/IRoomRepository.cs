@@ -13,7 +13,6 @@ namespace Repository.Abstract
         void Add(Room room);
         void Delete(RoomFilter filter);
         void Update(Room room, RoomFilter filter);
-
-        List<Room> Get(RoomFilter filter);
+        void Select(RoomFilter filter);
     }
 }

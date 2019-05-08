@@ -13,7 +13,6 @@ namespace Repository.Abstract
         void Add(Employee employee);
         void Delete(EmployeeFilter filter);
         void Update(Employee emp, EmployeeFilter filter);
-        
-        List<Employee> Get(EmployeeFilter filter);
+        void Select(EmployeeFilter filter);
     }
 }

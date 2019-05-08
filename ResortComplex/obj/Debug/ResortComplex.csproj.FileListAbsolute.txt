@@ -121,3 +121,5 @@ C:\Users\Vika\source\repos\ResortComplex\ResortComplex\bin\Debug\System.Runtime.
 C:\Users\Vika\source\repos\ResortComplex\ResortComplex\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Vika\source\repos\ResortComplex\ResortComplex\bin\Debug\System.ValueTuple.xml
 C:\Users\Vika\source\repos\ResortComplex\ResortComplex\obj\Debug\ResortComplex.exe.config
+C:\Users\Vika\source\repos\ResortComplex\ResortComplex\bin\Debug\Services.dll
+C:\Users\Vika\source\repos\ResortComplex\ResortComplex\bin\Debug\Services.pdb
